@@ -5,7 +5,7 @@
   "homepage": "https://Serhii-Kuzmin.github.io/Project-Food-Boutique",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-js/"
+    "build": "parcel build src/*.html --public-url /Project-Food-Boutique/"
   },
   "repository": {
     "type": "git",
